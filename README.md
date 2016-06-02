@@ -7,6 +7,7 @@ The tutorial covers basic functionality of Mailers and Channels.
 ```
 $ git clone http://github.com/shwheelz/rails-5-weblog
 $ cd rails-5-weblog
+$ bundle install
 $ rails db:migrate
 $ rails s
 ```
