@@ -1,24 +1,14 @@
-# README
+# Rails 5 Weblog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo contains the code from [@dhh](https://twitter.com/dhh)'s tutorial, [Rails 5: The Tour](https://www.youtube.com/watch?v=OaDhY_y8WTo)
 
-Things you may want to cover:
+The tutorial covers basic functionality of Mailers and Channels.
 
-* Ruby version
+```
+$ git clone http://github.com/shwheelz/rails-5-weblog
+$ cd rails-5-weblog
+$ rails db:migrate
+$ rails s
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Visit [http://localhost:3000/posts](http://localhost:3000/posts)
